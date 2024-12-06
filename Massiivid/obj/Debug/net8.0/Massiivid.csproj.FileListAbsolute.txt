@@ -1,0 +1,14 @@
+C:\Users\Kasutaja\source\repos\Week6\Massiivid\bin\Debug\net8.0\Massiivid.exe
+C:\Users\Kasutaja\source\repos\Week6\Massiivid\bin\Debug\net8.0\Massiivid.deps.json
+C:\Users\Kasutaja\source\repos\Week6\Massiivid\bin\Debug\net8.0\Massiivid.runtimeconfig.json
+C:\Users\Kasutaja\source\repos\Week6\Massiivid\bin\Debug\net8.0\Massiivid.dll
+C:\Users\Kasutaja\source\repos\Week6\Massiivid\bin\Debug\net8.0\Massiivid.pdb
+C:\Users\Kasutaja\source\repos\Week6\Massiivid\obj\Debug\net8.0\Massiivid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kasutaja\source\repos\Week6\Massiivid\obj\Debug\net8.0\Massiivid.AssemblyInfoInputs.cache
+C:\Users\Kasutaja\source\repos\Week6\Massiivid\obj\Debug\net8.0\Massiivid.AssemblyInfo.cs
+C:\Users\Kasutaja\source\repos\Week6\Massiivid\obj\Debug\net8.0\Massiivid.csproj.CoreCompileInputs.cache
+C:\Users\Kasutaja\source\repos\Week6\Massiivid\obj\Debug\net8.0\Massiivid.dll
+C:\Users\Kasutaja\source\repos\Week6\Massiivid\obj\Debug\net8.0\refint\Massiivid.dll
+C:\Users\Kasutaja\source\repos\Week6\Massiivid\obj\Debug\net8.0\Massiivid.pdb
+C:\Users\Kasutaja\source\repos\Week6\Massiivid\obj\Debug\net8.0\Massiivid.genruntimeconfig.cache
+C:\Users\Kasutaja\source\repos\Week6\Massiivid\obj\Debug\net8.0\ref\Massiivid.dll

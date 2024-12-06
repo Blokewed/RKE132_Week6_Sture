@@ -1,0 +1,14 @@
+C:\Users\Kasutaja\source\repos\Week6\RandomArray\bin\Debug\net8.0\RandomArray.exe
+C:\Users\Kasutaja\source\repos\Week6\RandomArray\bin\Debug\net8.0\RandomArray.deps.json
+C:\Users\Kasutaja\source\repos\Week6\RandomArray\bin\Debug\net8.0\RandomArray.runtimeconfig.json
+C:\Users\Kasutaja\source\repos\Week6\RandomArray\bin\Debug\net8.0\RandomArray.dll
+C:\Users\Kasutaja\source\repos\Week6\RandomArray\bin\Debug\net8.0\RandomArray.pdb
+C:\Users\Kasutaja\source\repos\Week6\RandomArray\obj\Debug\net8.0\RandomArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kasutaja\source\repos\Week6\RandomArray\obj\Debug\net8.0\RandomArray.AssemblyInfoInputs.cache
+C:\Users\Kasutaja\source\repos\Week6\RandomArray\obj\Debug\net8.0\RandomArray.AssemblyInfo.cs
+C:\Users\Kasutaja\source\repos\Week6\RandomArray\obj\Debug\net8.0\RandomArray.csproj.CoreCompileInputs.cache
+C:\Users\Kasutaja\source\repos\Week6\RandomArray\obj\Debug\net8.0\RandomArray.dll
+C:\Users\Kasutaja\source\repos\Week6\RandomArray\obj\Debug\net8.0\refint\RandomArray.dll
+C:\Users\Kasutaja\source\repos\Week6\RandomArray\obj\Debug\net8.0\RandomArray.pdb
+C:\Users\Kasutaja\source\repos\Week6\RandomArray\obj\Debug\net8.0\RandomArray.genruntimeconfig.cache
+C:\Users\Kasutaja\source\repos\Week6\RandomArray\obj\Debug\net8.0\ref\RandomArray.dll
